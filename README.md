@@ -17,3 +17,4 @@ This project detects fraudulent transactions from an imbalanced credit card data
 
 ```bash
 pip install pandas scikit-learn imbalanced-learn xgboost
+-
